@@ -23,6 +23,10 @@ Please contact Christian Rathgeb (christian.rathgeb@h-da.de) or Christoph Busch 
 <img src="12-faces.png" width="50%">
 </p>
 
+## Example Data 
+
+Example face images from the DAST database that can be used for publications can be found in the folder example-data.  
+
 ## Citation 
 
 If you use this work in your publication, please cite the following publications:
@@ -36,8 +40,3 @@ If you use this work in your publication, please cite the following publications
  Year = {2026}
 }```
 
-  <div align="center">
-  </div>
-## Example Data 
-
-Example face images from the DAST database that can be used for publications can be found in the folder example-data.  
