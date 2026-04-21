@@ -25,7 +25,7 @@ Please contact Christian Rathgeb (christian.rathgeb@h-da.de) or Christoph Busch 
 
 ## Example Data 
 
-Example face images from the DAST database that can be used for publications can be found in the folder example-data.  
+Example face images from the DAST database that can be used for publications can be found in the zip-file example-data.zip.  
 
 ## Citation 
 
