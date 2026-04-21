@@ -9,6 +9,8 @@ The DArmstadt Skin Tone (DAST) database contains portrait images from a large va
   <p align="center">
     <a href="https://dasec.h-da.de/staff/christoph-busch/"><strong>Christoph Busch</strong></a>
     ,
+    Paul Kibler
+    ,
     <a href="https://dasec.h-da.de/staff/fabian-stockhardt/"><strong>Fabian Stockhardt</strong></a>    
     ·
     <a href="https://dasec.h-da.de/staff/christian-rathgeb/"><strong>Christian Rathgeb</strong></a>    
