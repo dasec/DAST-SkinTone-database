@@ -25,7 +25,35 @@ Please contact Christian Rathgeb (christian.rathgeb@h-da.de) or Christoph Busch 
 
 ## Example Data 
 
-Example face images from the DAST database that can be used for publications can be found in the zip-file example-data.zip.  
+
+    ├───001
+    │   ├───Colorimeter
+    │   └───Pictures
+    │       └───cropped
+    ├───002
+    │   ├───Colorimeter
+    │   └───Pictures
+    │       └───cropped
+    └───036
+        ├───Colorimeter
+        └───Pictures
+            └───cropped
+
+The images of each subject can be found in the respective subject folder under the subfolder `cropped`. There are 12 .png images per subject: 4 with normal exposure and 8 either underexposed or overexposed. The images were captured using two different cameras.
+
+The exposure level of each image can be determined either from the accompanying CSV file or from the image metadata.
+
+Based on the recording settings, the exposure conditions are defined as follows:
+
+- **1/160 s**: double overexposed (**+2 stops**)
+- **1/125 s**: singly overexposed (**+1 stop**)
+- **f/11, 1/100 s**: normal exposure (**0 stops**)
+- **f/16**: singly underexposed (**−1 stop**)
+- **f/22**: double underexposed (**−2 stops**)
+
+This allows the exposure category of each image to be identified directly from its capture parameters.
+
+The colorimeter file is located in the `Colorimeter` subfolder for each subject. 
 
 ## Citation 
 
