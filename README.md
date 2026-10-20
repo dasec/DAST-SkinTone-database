@@ -47,7 +47,7 @@ Please contact Christian Rathgeb (christian.rathgeb@h-da.de) or Christoph Busch 
 
 ## Directory Structure
 
-The repository's example archive contains subject directories such as:
+The repository's example archive (example-data.zip) contains subject directories such as:
 
 ```text
 example-data/
