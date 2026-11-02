@@ -81,8 +81,8 @@ Each subject has 12 images: four nominally exposed, four underexposed, and four 
 
 |Level|Condition|Relative nominal exposure|Aperture|Shutter|ISO|
 |-|-|-|-|-|-|
-|EL1|Strongly underexposed|25% (−2 stops)|f/16|1/100 s|100|
-|EL2|Underexposed|50% (−1 stop)|f/22|1/100 s|100|
+|EL1|Strongly underexposed|25% (−2 stops)|f/22|1/100 s|100|
+|EL2|Underexposed|50% (−1 stop)|f/16|1/100 s|100|
 |EL3|Nominal|100% (0 stops)|f/11|1/100 s|100|
 |EL4|Overexposed|200% (+1 stop)|f/11|1/125 s|100|
 |EL5|Strongly overexposed|400% (+2 stops)|f/11|1/160 s|100|
