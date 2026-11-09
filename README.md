@@ -45,6 +45,22 @@ Please contact Christian Rathgeb (christian.rathgeb@h-da.de) or Christoph Busch 
 
 **Subjects per CST class:** class 1: 2; classes 2–8: 10 each; class 9: 8; class 10: 0.
 
+## Subject Statistics
+
+The skin-tone distribution of the collected subjects is shown separately for each version of the dataset.
+
+**DAST-10** (as published in the IWBF paper):
+
+<p align="center">
+<img src="cst_face_distribution_dast10.png" width="80%">
+</p>
+
+**DAST-20** (current status):
+
+<p align="center">
+<img src="cst_face_distribution_dast20.png" width="80%">
+</p>
+
 ## Directory Structure
 
 The repository's example archive (example-data.zip) contains subject directories such as:
