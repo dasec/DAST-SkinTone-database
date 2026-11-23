@@ -127,6 +127,10 @@ The mean CIELAB vector from the **three facial sites** (LW, S and RW; measuremen
 
 The dataset includes CSV metadata associating pseudonymous subject IDs with image files, camera information and acquisition conditions. Colorimeter records are stored in each subject's `Colorimeter/`
 
+## Acknowledgment
+
+This research work has been funded by the German Federal Ministry of Education and Research and the Hessian Ministry of Higher Education, Research, Science and the Arts within their joint support of the National Research Center for Applied Cybersecurity ATHENE. Further, this work was partially supported by EU Horizon under G.A. EINSTEIN (101121280) and CarMen (101168325).
+
 ## Citation 
 
 If you use this work in your publication, please cite the following publications:
@@ -140,6 +144,4 @@ If you use this work in your publication, please cite the following publications
  Year = {2026}
 }```
 
-## Acknowledgment
 
-This research work has been funded by the German Federal Ministry of Education and Research and the Hessian Ministry of Higher Education, Research, Science and the Arts within their joint support of the National Research Center for Applied Cybersecurity ATHENE. Further, this work was partially supported by EU Horizon under G.A. EINSTEIN (101121280) and CarMen (101168325
